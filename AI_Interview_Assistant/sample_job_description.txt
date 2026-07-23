@@ -1,0 +1,15 @@
+Job Title: Associate Data Scientist & Machine Learning Engineer
+
+Company: AI Frontiers Inc.
+Location: Remote / Hybrid
+
+About the Role:
+We are seeking an Associate Data Scientist with strong coding skills in Python and database management. In this role, you will help design, build, and deploy machine learning models and data pipelines to power our automated analytics platforms.
+
+Requirements & Qualifications:
+- 1-3 years of experience writing clean, professional code in Python.
+- Proficient in SQL database querying, JOINs, and database normalization.
+- Practical experience with Machine Learning modeling using Scikit-learn, Pandas, and NumPy.
+- Strong understanding of version control using Git and GitHub.
+- Experience with Deep Learning (TensorFlow or PyTorch) and Natural Language Processing (NLP) is a plus.
+- Excellent communication and problem-solving skills.
