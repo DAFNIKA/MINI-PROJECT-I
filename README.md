@@ -23,24 +23,10 @@ Built using Python, Streamlit, SQLite 3, spaCy NER, NLTK, and Sentence-Transform
 *   Database: SQLite 3 (Standard SQL driver)
 *   Document Engines: `pdfplumber` (PDF), `python-docx` (Word), `fpdf2` (PDF compiler)
 
-    ️ Installation & Setup
-1. Clone the Repository:
-   
-   git clone https://github.com/your-username/AI-Interview-Assistant.git
-   cd AI-Interview-Assistant
-Install Dependencies: Ensure you have Python 3.10+ installed, then run:
-
-pip install -r requirements.txt
-Download NLP Models: Download the spaCy language model:
-
-python -m spacy download en_core_web_sm
-Launch the Application: Run the local Streamlit dev server:
-
 streamlit run app.py
 
-👤 Author
+👤 Author:
 D. Dafnika
 Department of Master of Computer Applications (PG-MCA)
 PSG College of Arts & Science, Coimbatore, India
-7:13 PM
 
